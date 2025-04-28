@@ -6,17 +6,17 @@ export default function HomeScreen() {
     {
       date: '17 April 2025',
       title: 'Hari di Pantai',
-      content: 'Untub membulan tanman bisa linggatt dan lakar.',
+      content: 'Liburan yang begitu menyenangkan.',
     },
     {
       date: '16 April 2025',
       title: 'Belajar Pemrograman',
-      content: 'Netrugh karti berkarian sebab flinggai di sanat.',
+      content: 'Belajar pemrograman reacnative.',
     },
     {
       date: '18 April 2025',
       title: 'Menonton Film',
-      content: 'Menonton filman sangt tuliu',
+      content: 'Menonton film yang berjudul cinta dalam ikhlas',
     },
   ]);
 
@@ -137,7 +137,7 @@ const styles = StyleSheet.create({
   container: {
     padding: 20,
     paddingTop: 60,
-    backgroundColor: '#fff',
+    backgroundColor: '#BBA4E1',
     flex: 1,
   },
   header: {
